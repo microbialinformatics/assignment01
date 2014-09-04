@@ -1,8 +1,7 @@
----
-title: "Assignment 01"
-author: 
-date: "September 4, 2014"
-output: html_document
----
+## Assignment 01
 
-The purpose of this assignment is to help you grow in your familiarity with git, github, and R markdown. What you do in this workflow will be needed to perform and submit your assignments. In addition to figuring out how to the technicalities of working on your assignments, it will help you to develop the skills you need to carry out two significant parts of performing reproducible research.
+***Objective.*** The purpose of this assignment is to help you grow in your familiarity with git, github, and R markdown. What you do in this workflow will be needed to perform and submit your assignments. In addition to figuring out how to the technicalities of working on your assignments, it will help you to develop the skills you need to carry out two significant parts of performing reproducible research.
+
+1. In class I have mentioned the Software Carpentry Website several times. They have some pretty good materials for teaching people how to use git and github. For the first exercise, I want you to follow their instructions on their [Version Control with Git](http://software-carpentry.org/v5/novice/git/index.html) page. These instructions involve the use of the command line git tool. This is the same tool that RStudio will use. I want you to use the command line at least once to have a better idea of what is going on under the good. If you are using a windows machine, you will need to use the gitbash tool that is available for windows. To complete this exercise you will need to do items 2, 3, 4, and 6, but in the order of 6, 2, 3, and 4. When you create your `planets` repository, be sure to make it public so that I can see it.
+
+2. 
