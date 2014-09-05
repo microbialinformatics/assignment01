@@ -92,3 +92,6 @@ Finally, enter your name and whatnot and click the green `Create pull request` b
 <img src="png/EditSubmission.png">
 
 And you're done!
+
+
+3. I would like to have a roster for the class so I can learn everyone's name along with their home department, year, and a picture. I've started one on the [course website](http://microbialinformatics.github.io/roster.html). But LeftEye (that's the pig) and I are a bit lonely. Repeating what you did in exercise 2, complete a pull request to submit your information. Please follow the formatting that I have started and include a horizontally framed selfie of yourself. The [repository for the course website](https://github.com/microbialinformatics/microbialinformatics.github.io) contains a folder called `img` for you to put your picture. As you submit your pull request I will quickly accept or reject your request so we can get everyone loaded.
